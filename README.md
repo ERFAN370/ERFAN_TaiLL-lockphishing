@@ -4,7 +4,7 @@ Lockphishing it's the first tool (06/13/2020) for phishing attacks on the lock s
 
 
 <p align="center">
-<a href="https://github.com/ERFAN370/ERFAN_TAiLL-lockphishing"><img title="Author" src="https://img.shields.io/badge/Author-Jason Jerry-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ERFAN370/ERFAN_TAiLL-lockphishing"><img title="Author" src="https://img.shields.io/badge/Author-ERFAN TAiLL-red.svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 </p>
 <p align="center">
